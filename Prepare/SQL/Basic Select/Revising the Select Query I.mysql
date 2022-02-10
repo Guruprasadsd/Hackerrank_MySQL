@@ -1,0 +1,5 @@
+#https://www.hackerrank.com/challenges/revising-the-select-query/submissions/code/242087816
+
+
+Ans:
+select * from CITY where countrycode='usa' and POPULATION>100000;
